@@ -1,0 +1,49 @@
+{
+    "variable_fungicide": {
+        "winter_wheat": "cereal_fungi",
+        "spring_wheat": "cereal_fungi",
+        "potatoes": "fungi_all",
+        "rapeseed": "fungi_all",
+        "salad": "fungi_all",
+        "sugar_beets": "fungi_all",
+        "barley": "cereal_fungi",
+        "oats": "cereal_fungi",
+        "corn": "corn_fungi"
+    },
+    "variable_fertilizer": {
+        "winter_wheat": "cereal_ferti",
+        "spring_wheat": "cereal_ferti",
+        "potatoes": "potato_ferti",
+        "rapeseed": "rapeseed_ferti",
+        "salad": "salad_ferti",
+        "barley": "cereal_ferti",
+        "oats": "cereal_ferti",
+        "sugar_beets": "sugar_beets_ferti",
+        "ryegrass": "ryegrass_ferti",
+        "kentucky_grass": "ryegrass_ferti",
+        "orchard_grass": "ryegrass_ferti",
+        "bermuda_grass": "bermuda_grass_ferti",
+        "tall_fescue": "tall_fescue_ferti",
+        "red_fescue": "red_fescue_ferti",
+        "corn": "fungi_all"
+    },
+    "variable_growth_regulators": {
+        "winter_wheat": "cereal_pgr",
+        "spring_wheat": "cereal_pgr",
+        "barley": "cereal_pgr",
+        "oats": "cereal_pgr",
+        "ryegrass": "fungi_all",
+        "kentucky_grass": "fungi_all",
+        "orchard_grass": "fungi_all",
+        "bermuda_grass": "fungi_all",
+        "tall_fescue": "fungi_all",
+        "red_fescue": "fungi_all"
+    },
+    "pgr_fungi": {
+        "cereals": "pgr_fungi",
+        "winter_wheat": "pgr_fungi",
+        "spring_wheat": "pgr_fungi",
+        "oats": "pgr_fungi",
+        "barley": "pgr_fungi"
+    }
+}
